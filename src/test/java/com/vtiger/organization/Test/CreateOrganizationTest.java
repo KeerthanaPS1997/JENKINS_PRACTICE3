@@ -22,7 +22,7 @@ public class CreateOrganizationTest extends BaseClass
 	CreateNewOrganizationNamePage createNewOrganizationNamePage;
 	
 	
-	@Test(groups="sanity")
+	@Test
 	
 	public void createOrganizationtest() throws EncryptedDocumentException, IOException, InterruptedException
 	{
